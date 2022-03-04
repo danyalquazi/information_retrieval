@@ -1,5 +1,5 @@
 
-# Information Retrieval System
+# Information Retrieval System.
 
 #### A prototype of an Information Retrieval system with all the necessary steps which are required like the data analyses, text pre-processing, indexing, model building, and the evaluation. The project is an attempt to achieve all these tasks without the help of any external API or library.
 The project is written in jupyter notebook and is a .ipynb file. You would need jupyter notebook or equivalent to open the file.
